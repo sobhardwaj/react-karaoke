@@ -2,7 +2,7 @@
   "name": "react-karaoke-player",
   "description": "react-karaoke-player package",
   "version": "0.0.0",
-  "author": "Justin Smith <jesmith627@gmail.com>",
+  "author": "",
   "exports": [
     "./index.ts",
     "./controls.ts"

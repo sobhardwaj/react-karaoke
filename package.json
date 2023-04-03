@@ -2,7 +2,7 @@
   "name": "react-karaoke",
   "description": "React components for accessible audio with karaoke captions",
   "version": "0.0.0",
-  "author": "Justin Smith <jesmith627@gmail.com>",
+  "author": "",
   "dependencies": {
     "classnames": "^2.3.1",
     "react-scrollbars-custom": "^4.0.27"
